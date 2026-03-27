@@ -869,8 +869,8 @@ function About() {
           </div>
           <div className="stats-grid" style={{ marginTop: "48px" }}>
             {[
-              { num: "50+", label: "PROJECTS" },
-              { num: "8+", label: "YEARS" },
+              { num: "400+", label: "PROJECTS" },
+              { num: "4+", label: "YEARS" },
               { num: "30+", label: "CLIENTS" },
             ].map(({ num, label }) => (
               <div key={label} style={{ textAlign: "center" }}>
